@@ -19,7 +19,7 @@ Ensure you have **Python 3.x** installed.
 ### Steps
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/nithish2409/Weather_forecasting_system.git
    ```
 2. **Navigate to the project directory:**
    ```sh
